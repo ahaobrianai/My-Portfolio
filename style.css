@@ -68,3 +68,11 @@ header{
 .btn:hover {
   background-color: #0056b3;
 }
+
+footer {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  }
